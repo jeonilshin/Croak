@@ -35,3 +35,5 @@ Embarking on a journey in game development with Python and Pygame has provided m
 pip install pygame
 python ./Croak!.py
 ```
+### Special Thanks to [Clear Code]
+[Clear Code]: https://www.youtube.com/@ClearCode
